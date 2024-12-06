@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765840456027",
+    "project_id": "vca-food",
+    "storage_bucket": "vca-food.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765840456027:android:3d8ef7e68189651d03027e",
+        "android_client_info": {
+          "package_name": "com.example.vca_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765840456027-gonbmjl8ukhvedciuv8u2i52kgv5q3d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwH4xVSWhGmr0cd-Cu9ecKDH0p2nr3l84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765840456027-gonbmjl8ukhvedciuv8u2i52kgv5q3d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

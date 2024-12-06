@@ -1,0 +1,57 @@
+
+
+plugins {
+    id 'com.android.application'
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+    // Adicionando o plugin para os Serviços do Google
+    id 'com.google.gms.google-services'
+}
+
+android {
+    namespace = "com.example.vca_food"
+    compileSdk = flutter.compileSdkVersion
+    ndkVersion = flutter.ndkVersion
+
+    defaultConfig {
+        applicationId = "com.example.vca_food"
+        minSdk = 23
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8
+    }
+
+    buildTypes {
+        release {
+            signingConfig = signingConfigs.debug
+        }
+    }
+}
+
+dependencies {
+    // BoM do Firebase
+    implementation platform('com.google.firebase:firebase-bom:33.6.0')
+
+    // Firebase Analytics
+    implementation 'com.google.firebase:firebase-analytics'
+
+    // Firebase Authentication
+    implementation 'com.google.firebase:firebase-auth'
+
+    // Google Sign-In
+    implementation 'com.google.android.gms:play-services-auth:20.4.1'
+}
+
+
+flutter {
+    source = "../.."
+}

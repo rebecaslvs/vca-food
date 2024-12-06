@@ -1,0 +1,164 @@
+[
+  {
+    "nome": "Delícias da Luna",
+    "descricao": "Confeitaria com doces e salgados artesanais.",
+    "imagemUrl": "assets/imagens/deliciasdaluna1.png",
+    "imagensAdicionais": [
+      "assets/imagens/deliciasdaluna2.png",
+      "assets/imagens/deliciasdaluna3.png",
+      "assets/imagens/deliciasdaluna4.png"
+    ],
+    "contato": "(77) 98118-3125",
+    "instagram": "@deliciasdalunavca",
+    "localizacao": "Rua Cláudia Botelho, 735, Primavera",
+    "avaliacoes": [
+      {
+        "usuario": "usuario1@email.com",
+        "comentario": "Comida incrível!",
+        "nota": 5
+      },
+      {
+        "usuario": "usuario2@email.com",
+        "comentario": "Ótimo atendimento.",
+        "nota": 4
+      }
+    ]
+  },
+  {
+    "nome": "Jardins Café",
+    "descricao": "Confeitaria com influências internacionais.",
+    "imagemUrl": "assets/imagens/jardinscafe1.png",
+    "imagensAdicionais": [
+      "assets/imagens/jardinscafe2.png",
+      "assets/imagens/jardinscafe3.png",
+      "assets/imagens/jardinscafe4.png"
+    ],
+    "contato": "(77) 99999-9999",
+    "instagram": "@jardinscafevca",
+    "localizacao": "Avenida Olívia Flores, 704, Candeias",
+    "avaliacoes": [
+      {
+        "usuario": "usuario1@email.com",
+        "comentario": "Comida incrível!",
+        "nota": 5
+      },
+      {
+        "usuario": "usuario2@email.com",
+        "comentario": "Ótimo atendimento.",
+        "nota": 4
+      }
+    ]
+  },
+  {
+    "nome": "Cafeteria Rigno",
+    "descricao": "Padaria artesanal com cafés premiados.",
+    "imagemUrl": "assets/imagens/padariarigno1.png",
+    "imagensAdicionais": [
+      "assets/imagens/padariarigno2.png",
+      "assets/imagens/padariarigno3.png",
+      "assets/imagens/padariarigno4.png"
+    ],
+    "contato": "(77) 98145-5213",
+    "instagram": "@cafeteriarigno",
+    "localizacao": "Rua Siqueira Campos, 1720, Candeias",
+    "avaliacoes": []
+  },
+  {
+    "nome": "Morioka Café",
+    "descricao": "Cafeteria em estilo inglês e estadunidense.",
+    "imagemUrl": "assets/imagens/moriokacafe1.png",
+    "imagensAdicionais": [
+      "assets/imagens/moriokacafe2.png",
+      "assets/imagens/moriokacafe3.png",
+      "assets/imagens/moriokacafe4.png"
+    ],
+    "contato": "(77) 3017-0064",
+    "instagram": "@moriokacafe",
+    "localizacao": "Av. Jorge Teixeira, 602B – Candeias",
+    "avaliacoes": []
+  },
+  {
+    "nome": "Selva Burguer",
+    "descricao": "Hambúrgueria com ambiente e lanches temáticos.",
+    "imagemUrl": "assets/imagens/selvaburguer1.png",
+    "imagensAdicionais": [
+      "assets/imagens/selvaburguer2.png",
+      "assets/imagens/selvaburguer3.png",
+      "assets/imagens/selvaburguer4.png"
+    ],
+    "contato": "(77) 99999-9999",
+    "instagram": "@selvaburguer_",
+    "localizacao": "Avenida Pará, 181, Ibirapuera",
+    "avaliacoes": []
+  },
+  {
+    "nome": "Oba Burger",
+    "descricao": "Hambúrgueria com lanches na brasa e filetados.",
+    "imagemUrl": "assets/imagens/obaburguer1.jpeg",
+    "imagensAdicionais": [
+      "assets/imagens/obaburguer2.jpeg",
+      "assets/imagens/obaburguer3.jpeg",
+      "assets/imagens/obaburguer4.jpeg"
+    ],
+    "contato": "(77) 3028-2786",
+    "instagram": "@obaburguervca",
+    "localizacao": "Avenida Alziro Prates, 71, Candeias",
+    "avaliacoes": []
+  },
+  {
+    "nome": "Devenetta Burger",
+    "descricao": "Hambúrgueria premiada pelo Garfo de Ouro.",
+    "imagemUrl": "assets/imagens/devenetta1.png",
+    "imagensAdicionais": [
+      "assets/imagens/devenetta2.png",
+      "assets/imagens/devenetta3.png",
+      "assets/imagens/devenetta4.png"
+    ],
+    "contato": "(77) 98103-4717",
+    "instagram": "@devenetta_burger",
+    "localizacao": "Avenida Cartité, 828, Patagônia",
+    "avaliacoes": []
+  },
+  {
+    "nome": "Gostosão Lanches",
+    "descricao": "Hambúrgueria com estilo 'podrão' e artesanal.",
+    "imagemUrl": "assets/imagens/gostosaolanches1.png",
+    "imagensAdicionais": [
+      "assets/imagens/gostosaolanches2.png",
+      "assets/imagens/gostosaolanches3.png",
+      "assets/imagens/gostosaolanches4.png"
+    ],
+    "contato": "(77) 98801-3248",
+    "instagram": "@gostosaolanches.vca",
+    "localizacao": "Avenida Boa Vontade, 2894, Brasil",
+    "avaliacoes": []
+  },
+  {
+    "nome": "Assador Steakhouse",
+    "descricao": "Restaurante com cortes especiais.",
+    "imagemUrl": "assets/imagens/assador1.png",
+    "imagensAdicionais": [
+      "assets/imagens/assador2.png",
+      "assets/imagens/assador3.png",
+      "assets/imagens/assador4.png"
+    ],
+    "contato": "(77) 98147-3240",
+    "instagram": "@assadorvca",
+    "localizacao": "Av. Alírio Sales, 28, Loja 03, Candeias",
+    "avaliacoes": []
+  },
+  {
+    "nome": "Azzo Parrilla",
+    "descricao": "Restaurante com foco em massas e pratos finos.",
+    "imagemUrl": "assets/imagens/azzo3.png",
+    "imagensAdicionais": [
+      "assets/imagens/azzo1.png",
+      "assets/imagens/azzo2.png",
+      "assets/imagens/azzo4.png"
+    ],
+    "contato": "(77) 98132-3400",
+    "instagram": "@azzoparrilla",
+    "localizacao": "Avenida Jorge Teixeira, 606, Candeias",
+    "avaliacoes": []
+  }
+]
